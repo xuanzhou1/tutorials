@@ -1,4 +1,4 @@
-# Zotero: Best literature manage softwore
+# Zotero: Best literature management softwore
 
 
 ## Configure the quicklook in zotero for Windows
